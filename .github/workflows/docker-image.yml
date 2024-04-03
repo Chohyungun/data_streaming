@@ -25,4 +25,4 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: chohyungun/data-streaming:latest
+        tags: loahness/data_streaming:latest
