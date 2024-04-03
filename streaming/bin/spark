@@ -1,0 +1,3 @@
+#!/home/chg2022/Data-Streaming-Project/streaming/bin/python3
+from spark import spark_admin
+spark_admin.main()
